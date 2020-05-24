@@ -1,0 +1,9 @@
+Requirements
+1. Python
+2. Pandas
+3. Seaborn
+4. matplotlib
+5. Numpy
+6. Scipy
+7. category_encoders
+8. sklearn
